@@ -106,9 +106,8 @@
 						"copy_to": [
 							"collector.default",
 							"name.en",
-							"name.de",
-							"name.fr",
-							"name.it"
+							"name.uk",
+							"name.ru"
 						]
 					},
 					"int": {
